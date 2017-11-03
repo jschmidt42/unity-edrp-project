@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"com.unity.editor.resources": "file:C:/work/unity/External/PackageManager/Editor/com.unity.editor.resources/package"
+		"com.unity.editor.resources": "file:C:/work/editor_resources/External/Resources/editor_resources"
 	}
 }
