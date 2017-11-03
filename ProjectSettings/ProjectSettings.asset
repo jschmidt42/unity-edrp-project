@@ -99,6 +99,8 @@ PlayerSettings:
   n3dsEnableSharedListOpt: 1
   n3dsEnableVSync: 0
   xboxOneResolution: 0
+  xboxOneSResolution: 0
+  xboxOneXResolution: 3
   xboxOneMonoLoggingLevel: 0
   xboxOneLoggingLevel: 1
   xboxOneDisableEsram: 0
@@ -538,8 +540,8 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLUseWasm: 0
   webGLCompressionFormat: 1
+  webGLLinkerTarget: 0
   scriptingDefineSymbols: {}
   platformArchitecture: {}
   scriptingBackend: {}
